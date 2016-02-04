@@ -1,6 +1,4 @@
 # If-You-want-to-Marry-a-Programmer
-If you want to marry a programmer Read, else skip
-
 
 If you want to marry a programmer Read, else skip
 This is not a "Generic Type" notes it is tailored(Casted) for females willing to marry male programmers
