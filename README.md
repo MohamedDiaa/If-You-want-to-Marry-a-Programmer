@@ -37,7 +37,7 @@ be prepared if you used such careless statements to have six packs of milk
 12- if you wanted your husband attention and he put you aside you have to know Some programmer take FIFO (first in first out) strictly but as they grow older
 they learn about priority interrruptions and will make context switching. You have to know programmer’s wife often has a high priority in his mind
 
-13- a Programmer caught sending automated texts to his wife ,so you can receive a message like I have a important meeting I will be late and he may be spending time with his friends in a bar. So it will be nice to reply with captcha to detect him from machined him so rely by “Honey I am at your office where are you” or other more intellectual ways to make the check
+13- a Programmer caught sending automated texts to his wife ,so you can receive a message like I have a important meeting I will be late and he may be spending time with his friends in a bar. So it will be nice to reply with captcha to detect him from machined him example “Honey I am at your office where are you” or other more intellectual ways to make the check
 
 the incident in news here http://uk.businessinsider.com/programmer-automates-his-job-2015-11?r=US&IR=T
-even programmers shared his success story and scripts here  https://github.com/MohamedDiaa/hacker-scripts
+even programmers shared his success story and scripts here  https://github.com/NARKOZ/hacker-scripts
